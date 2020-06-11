@@ -1,6 +1,6 @@
 # PsychHelp
 
-This Project is website and it is developed under *StudentCode-in*
+This Project is website and it is developed under **_StudentCode-in_**
 
 # Vision
 This website primarily focusses on people suffering from psychological problems like anxiety, depression, etc. With the help of this website, patients can directly interact with the doctors online without going in person. 
