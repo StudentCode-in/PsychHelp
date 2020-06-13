@@ -25,7 +25,7 @@ Tools used will be:
 ![alt SITE MAP](https://github.com/StudentCode-in/PsychHelp/blob/master/SITE%20MAP.png)
 
 # LICENSE :
-'License'
+`License`
 
 * [LICENSE](https://github.com/StudentCode-in/PsychHelp/blob/master/LICENSE)
 * Copyright 2020 
