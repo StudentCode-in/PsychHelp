@@ -16,7 +16,6 @@ Tools used will be:
 * HTML
 * CSS
 * JavaScript
-* React
 * jQuery
 * Express.js 
 * Node.js
