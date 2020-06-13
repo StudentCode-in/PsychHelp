@@ -22,6 +22,6 @@ Tools used will be:
 * Node.js
 
 # SITE MAP :
-![alt text](https://www.gloomaps.com/P6Wj6W23zr)
+![alt SITE MAP](https://github.com/StudentCode-in/PsychHelp/blob/master/SITE%20MAP.png)
 
 *Note*: I will add on more info according to the advancement of the project.
