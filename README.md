@@ -23,12 +23,13 @@ Tools used will be:
 
 # Installation :
 ## Clone :
-` ` Clone this repo to your local machine as:
-`$ git clone https://github.com/StudentCode-in/PsychHelp.git'
+``  Clone this repo to your local machine as:
+`$ git clone https://github.com/StudentCode-in/PsychHelp.git`
 
 ## Setup :
-` ` Change your directory to the cloned repo as:
+``  Change your directory to the cloned repo as:
 `$ cd PsychHelp`
+
 
 # SITE MAP :
 ![alt SITE MAP](https://github.com/StudentCode-in/PsychHelp/blob/master/SITE%20MAP.png)
