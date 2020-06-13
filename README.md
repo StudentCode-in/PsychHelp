@@ -19,6 +19,7 @@ Tools used will be:
 * jQuery
 * Express.js 
 * Node.js
+* React
 
 # Installation :
 ## Clone :
